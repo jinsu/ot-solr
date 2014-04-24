@@ -1,0 +1,13 @@
+{
+  "id" : "123",
+    "cat" : ["book","hardcover"],
+    "name" : "Test Suceeded",
+    "author" : "Rick Riordan",
+    "series_t" : "Testing",
+    "sequence_i" : 1,
+    "genre_s" : "fantasy",
+    "inStock" : true,
+    "price" : 12.50,
+    "pages_i" : 384
+}
+
